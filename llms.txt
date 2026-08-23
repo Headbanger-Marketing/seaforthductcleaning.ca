@@ -1,2 +1,25 @@
 # Seaforth Duct Cleaning
-HVAC services in Ontario.
+
+> Seaforth Duct Cleaning is a local HVAC company serving Seaforth, Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 527-1483  |  Email: contact@seaforthductcleaning.ca  |  Website: https://seaforthductcleaning.ca
+
+## Key pages
+
+- [Home](https://seaforthductcleaning.ca/): Seaforth Duct Cleaning homepage with service overview and FAQ
+- [About](https://seaforthductcleaning.ca/about/): About the company and service area
+- [Contact](https://seaforthductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://seaforthductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Seaforth, Ontario
+- [Dryer Vent Cleaning](https://seaforthductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Seaforth, Ontario
+- [Furnace & AC Cleaning](https://seaforthductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Seaforth, Ontario
+- [HRV & Ventilation Cleaning](https://seaforthductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Seaforth, Ontario
+- [Duct Sanitizing & Deodorizing](https://seaforthductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Seaforth, Ontario
+- [Duct Sealing & Repair](https://seaforthductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Seaforth, Ontario
+- [Commercial Duct Cleaning](https://seaforthductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Seaforth, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Seaforth are answered on the homepage.
